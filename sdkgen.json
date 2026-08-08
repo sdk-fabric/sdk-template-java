@@ -1,0 +1,9 @@
+{
+  "type": "client-java",
+  "require": {
+    "sdkfabric/{{name}}": {
+      "target": "./src/main/java/org/sdkfabric/{{name}}",
+      "namespace": "{{namespace}}"
+    }
+  }
+}
