@@ -1,8 +1,8 @@
 {
   "type": "client-java",
   "require": {
-    "sdkfabric/{{name}}": {
-      "target": "./src/main/java/org/sdkfabric/{{name}}",
+    "{{typehub_user}}/{{typehub_document}}": {
+      "target": "./src/main/java/{{namespace_path}}",
       "namespace": "{{namespace}}"
     }
   }
