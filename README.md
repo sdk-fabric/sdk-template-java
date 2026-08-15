@@ -14,5 +14,5 @@ import {{namespace}}.Client;
 
 Client client = Client::build("[access_token]");
 
-// @TODO use the client
+{{usage}}
 ```
